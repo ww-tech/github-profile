@@ -1,4 +1,4 @@
-<h2> Hi, I'm Mark Griffith and it is currently Saturday, December 31, 10:08 PM EST.<img src="https://toggl.com/blog/wp-content/uploads/2018/08/programming-comic-blog-header.png" width="50"></h2>
+<h2> Hi, I'm Mark Griffith and it is currently Saturday, December 31, 11:06 PM EST.<img src="https://toggl.com/blog/wp-content/uploads/2018/08/programming-comic-blog-header.png" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://www.weightwatchers.com/us/about-WW">WW International</a><img src="https://media.giphy.com/media/JrXc72Pz2Ib1dBK13T/giphy.gif" width="30" 
 </em></p>
@@ -10,7 +10,7 @@
 
 ### Image of the hour
 <div align= center>
-  <img src="https://images.unsplash.com/photo-1670443987403-2020751a7120?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY3MjU0MjQ4NQ&ixlib=rb-4.0.3&q=80&w=400">
+  <img src="https://images.unsplash.com/photo-1671851433444-31a4775f14f8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY3MjU0NTk5Ng&ixlib=rb-4.0.3&q=80&w=400">
 </div>
 
 ### Coding language Stats
